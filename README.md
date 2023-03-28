@@ -22,4 +22,5 @@
   5. 게시글 삭제
      - 글 쓴 writer만 본인글 삭제 가능하도록 구현
      
+# DB ERD 구성(DB - MariaDB 사용)
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/113490500/228136960-16e62085-9bf2-4d15-a646-110c20c6567e.png">
