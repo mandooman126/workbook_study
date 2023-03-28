@@ -16,11 +16,11 @@
   2. 게시글 상세조회
      - bno, title, content, writer, regDate 출력
   3. 게시글 등록
-     - title, content 작성하고 버튼 누르면 등록
+     - 로그인한 id만 가능 -> title, content 작성 후 등록
   4. 게시글 수정
-     - 글 쓴 writer만 본인글 title, content 수정 가능하도록 구현
+     - 글 쓴 writer만 가능 -> 본인글 title, content 수정 구현
   5. 게시글 삭제
-     - 글 쓴 writer만 본인글 삭제 가능하도록 구현
+     - 글 쓴 writer만 가능 -> 본인글 삭제 구현
      
 # DB ERD 구성(DB - MariaDB 사용)
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/113490500/228136960-16e62085-9bf2-4d15-a646-110c20c6567e.png">
