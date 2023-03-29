@@ -5,9 +5,15 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
+<h1>게시판 만들 수 있을까,,?</h1>
 <br/>
-<a href="hello-servlet">Hello Servlet</a>
+
+<form action="" method="post">
+    ID : <input type="text" name="user_id"><br>
+    PW : <input type="password" name="user_pw"><br>
+    <button type="button">회원가입</button>
+    <button type="button">로그인</button>
+</form>
+
 </body>
 </html>
